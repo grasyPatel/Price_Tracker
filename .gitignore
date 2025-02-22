@@ -1,0 +1,18 @@
+# Ignore Node.js dependencies
+node_modules/
+price-tracker-backend/node_modules/
+price-tracker-frontend/node_modules/
+
+# Ignore environment and system files
+.env
+price-tracker-backend/.env
+price-tracker-backend//.env
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Ignore build files
+build/
+dist/
+coverage/
